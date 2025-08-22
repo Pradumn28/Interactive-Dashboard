@@ -3,20 +3,20 @@
 🚀 **Watch the Dashboard in Action**  
 https://www.loom.com/share/60feae0689754d09b0df6ef7e548314d
 
-> 🎥 *Click the image above to watch the full dashboard walkthrough.*
+> 🎥 *Click the video above to watch the full dashboard walkthrough.*
 
 ---
 
 ## 📊 Dashboard Pages
 
 ### 🏠 Homepage
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](Pages/homepage.png)
 
 - Acts as the **entry point** for the dashboard.  
 - Contains **two navigation buttons**:  
   - **Production**  
   - **Consumption**  
-- Shows **Top 5 Countries** by:  
+- Shows **Top 5 Countries** by(used TopN formula you can use Filter panel in your dashboard too):
   - Oil **Consumption**  
   - Oil **Reserves**  
   - Oil **Production**  
@@ -24,7 +24,7 @@ https://www.loom.com/share/60feae0689754d09b0df6ef7e548314d
 ---
 
 ### ⚙️ Production Analysis
-![Production Screenshot](screenshots/production.png)
+![Production Screenshot](Pages/production.png)
 
 - Focuses on **Oil Reserves vs Oil Production**.  
 - Includes a **Play Axis Animation (1980–2020)** to watch year-wise changes dynamically.  
@@ -33,7 +33,7 @@ https://www.loom.com/share/60feae0689754d09b0df6ef7e548314d
 ---
 
 ### ⚡ Consumption Analysis
-![Consumption Screenshot](screenshots/consumption.png)
+![Consumption Screenshot](Pages/consumption.png)
 
 - Focuses on **Oil Production vs Oil Consumption**.  
 - Includes another **Play Axis Animation** showing how **countries’ consumption compares with their production over time**.  
@@ -61,13 +61,6 @@ These datasets were **transformed and modeled in Power BI** for storytelling and
 
 ---
 
-## 🚀 How to Explore
-1. Download this repository and open the `.pbix` file in **Power BI Desktop**.  
-2. Use the **Homepage buttons** to navigate to Production or Consumption pages.  
-3. Play through the **time-based animations** to watch trends unfold.  
-
----
-
 ## 📌 Tech Stack
 - **Power BI Desktop**  
 - **Data Modeling & DAX**  
@@ -75,8 +68,13 @@ These datasets were **transformed and modeled in Power BI** for storytelling and
 
 ---
 
-## 🙌 Acknowledgements
-- [Our World in Data](https://ourworldindata.org/) for open datasets.  
-- Inspired by [Pragati Jain’s Power BI oil analysis](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Global-Oil-Production-and-Consumption-Analysis/td-p/2433419).  
-
 ---
+
+## 🤝 Connect with Me  
+
+If you have any questions, feedback, or suggestions about this project, feel free to reach out!  
+💬 Let’s connect on
+💼 [LinkedIn](https://www.linkedin.com/in/pradumnchauhan)!
+
+📧 [Email](pradumnchauhan2812@gmail.com)!
+
